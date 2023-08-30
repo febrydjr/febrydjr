@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am a passionate and adaptable technology enthusiast with a strong background in Information Technology. I possess excellent communication skills, effective problem-solving abilities, and a high level of adaptability. I thrive in collaborative team environments, excel at troubleshooting, and uphold honesty as a core value in all actions. My interests lie in web development, particularly using tools like ReactJS, Chakra UI, and JavaScript. I am committed to continuous learning, expanding my experiences, and applying my knowledge to achieve the best outcomes in every project I undertake.<br>
+
 [![](https://visitcount.itsvg.in/api?id=febrydjr&icon=0&color=7)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
