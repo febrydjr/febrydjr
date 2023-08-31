@@ -79,7 +79,7 @@
 ###
 
 <div width="100%" align="center">
- <img  height="140" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrydjr&show_icons=true&locale=en&layout=compact&theme=dracula" alt="febrydjr" />
+ <img  height="140" width="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrydjr&show_icons=true&locale=en&layout=compact&theme=dracula" alt="febrydjr" />
 
 <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=febrydjr&show_icons=true&theme=dracula&locale=en" alt="febrydjr" />
 
