@@ -34,15 +34,9 @@
 
 <p align="left">I'm Febry Dharmawan Junior from Sidoarjo the City of Delta<br><br>- 📚 I'm currently learning Web Development<br>- 📄 Know about my experiences http://bit.ly/3L8T0OH<br>- 👨‍💻 All of my projects are available at https://febrydjr.vercel.app</p>
 
-###
-
-
-
-###
-
+<br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
-<!-- <br clear="both"> -->
 <div align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
   
