@@ -26,7 +26,7 @@
 
 <h1 align="center">hey there 👋</h1>
 
-<!-- ### -->
+###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -35,7 +35,7 @@
 <p align="left">I'm Febry Dharmawan Junior from Sidoarjo the City of Delta<br><br>- 📚 I'm currently learning Web Development<br>- 📄 Know about my experiences http://bit.ly/3L8T0OH<br>- 👨‍💻 All of my projects are available at https://febrydjr.vercel.app</p>
 
 ###
-
+---
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
