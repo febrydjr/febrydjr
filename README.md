@@ -79,11 +79,11 @@
 ###
 
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrydjr&show_icons=true&locale=en&layout=compact" alt="febrydjr" /></p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrydjr&show_icons=true&locale=en&layout=compact" alt="febrydjr" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=febrydjr&show_icons=true&theme=dracula&locale=en" alt="febrydjr" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=febrydjr&show_icons=true&theme=dracula&locale=en" alt="febrydjr" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febrydjr&" alt="febrydjr" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febrydjr&" alt="febrydjr" />
    </div>
 
 ###
