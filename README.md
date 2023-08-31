@@ -72,12 +72,15 @@
 
 ###
 
-<div width="850px" align="center">
- 
-
+<!-- <div width="850px" align="center">
 <img  width="275px"  align="center" src="https://github-readme-stats.vercel.app/api?username=febrydjr&show_icons=true&theme=dracula&locale=en" alt="febrydjr" />
 <img   width="275px"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrydjr&show_icons=true&locale=en&theme=dracula" alt="febrydjr" />
 <img  width="275px" height="150px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febrydjr&theme=dracula" alt="febrydjr" />
-   </div>
+   </div> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=febrydjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=febrydjr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=febrydjr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
