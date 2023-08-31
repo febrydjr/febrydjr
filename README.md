@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=febrydjr.febrydjr&left_color=darkcyan&right_color=darkmagenta"  />
+  <img src="https://komarev.com/ghpvc/?username=febrydjr&label=Visitors&color=921994&style=flat-square" alt="febrydjr" />
 </div>
 
 ###
