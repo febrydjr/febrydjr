@@ -79,11 +79,11 @@
 ###
 
 <div width="100%" align="center">
- <img  height="140" width="33%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrydjr&show_icons=true&locale=en&layout=compact&theme=dracula" alt="febrydjr" />
+ <img   width="33%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrydjr&show_icons=true&locale=en&layout=compact&theme=dracula" alt="febrydjr" />
 
-<img height="150"  width="33%" align="center" src="https://github-readme-stats.vercel.app/api?username=febrydjr&show_icons=true&theme=dracula&locale=en" alt="febrydjr" />
+<img  width="33%" align="center" src="https://github-readme-stats.vercel.app/api?username=febrydjr&show_icons=true&theme=dracula&locale=en" alt="febrydjr" />
 
-<img height="150"  width="33%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febrydjr&theme=dracula" alt="febrydjr" />
+<img  width="33%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febrydjr&theme=dracula" alt="febrydjr" />
    </div>
 
 ###
