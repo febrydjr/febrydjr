@@ -78,7 +78,7 @@
 
 ###
 
-<div width="840px" align="center">
+<div width="850px" align="center">
  
 
 <img  width="270px"  align="center" src="https://github-readme-stats.vercel.app/api?username=febrydjr&show_icons=true&theme=dracula&locale=en" alt="febrydjr" />
