@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Febry Dharmawan Junior from Sidoarjo the City of Delta/<br><br>- 📚 I'm currently learning Web Development<br>- 📄 Know about my experiences https://drive.google.com/file/d/1F5ZmsbqEirjfOZo4cMNaSBZO8mi21DIg/view?usp=sharing<br>- 👨‍💻 All of my projects are available at febrydjr.vercel.app</p>
+<p align="left">I'm Febry Dharmawan Junior from Sidoarjo the City of Delta/<br><br>- 📚 I'm currently learning Web Development<br>- 📄 Know about my experiences http://bit.ly/3L8T0OH<br>- 👨‍💻 All of my projects are available at https://febrydjr.vercel.app</p>
 
 ###
 
@@ -77,8 +77,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=febrydjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=febrydjr&locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=febrydjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=febrydjr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=febrydjr&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
