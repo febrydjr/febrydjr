@@ -60,7 +60,7 @@
 
 
 ### Tools  
-<div align="center">  
+<div align="center" gap: 1em;>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" height="50" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png" alt="Jira" height="50" /></a>  
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" /></a>  
