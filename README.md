@@ -9,7 +9,7 @@
 - 📄 Know about my experiences [Certification File](https://bit.ly/certification-file)  
   
 
-- ⚡ All of my projects are available at my [Portfolio Website](https://febrydjr.vercel.app)  
+- ⚡ All of my projects are available at my [Portfolio Website](https://febrydjr.my.id)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
