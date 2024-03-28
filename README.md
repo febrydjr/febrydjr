@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media3.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -101,8 +101,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=febrydjr&&style=flat-square" align="center" />
 </div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
